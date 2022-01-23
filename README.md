@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arthurblanford
+- 👋 Hi, I’m @artbl4d
 - 👀 I’m interested in web development and GIS
 - 🌱 I’m currently learning Python, Javascript, and more.
 - 💞️ I’m looking to collaborate on learning or work opportunities.
